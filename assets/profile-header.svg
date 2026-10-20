@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title description">
+  <title id="title">Юрий — прикладная автоматизация</title>
+  <desc id="description">Классическое оформление в оттенках слоновой кости, тёмного зелёного и приглушённой латуни.</desc>
+  <rect width="1200" height="300" fill="#F4F0E6"/>
+  <rect x="18" y="18" width="1164" height="264" fill="none" stroke="#B7A47A" stroke-width="1"/>
+  <rect x="26" y="26" width="1148" height="248" fill="none" stroke="#D9CEB7" stroke-width="1"/>
+  <path d="M510 65H570M630 65H690" stroke="#A28B5C" stroke-width="1"/>
+  <path d="M600 57L608 65L600 73L592 65Z" fill="none" stroke="#A28B5C" stroke-width="1"/>
+  <text x="600" y="154" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="78" fill="#233E32">Юрий</text>
+  <text x="600" y="205" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="29" fill="#233E32" letter-spacing="2">Прикладная автоматизация</text>
+  <path d="M547 238H653" stroke="#A28B5C" stroke-width="1"/>
+</svg>
